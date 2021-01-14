@@ -1,4 +1,4 @@
-package ec.edu.epn;
+package ec.edu.epn.git.calculator;
 
 public class Calculator {
     private int ans;
